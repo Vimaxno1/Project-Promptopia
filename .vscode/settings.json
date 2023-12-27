@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.mouseWheelZoom": true,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "diffEditor.experimental.showMoves": true,
+  "diffEditor.wordWrap": "on",
+  "editor.minimap.autohide": true,
+  "files.autoGuessEncoding": true
+}
